@@ -1,3 +1,11 @@
+This fork add OCR based store hours collection for StreetComplete. Snap a photo, select the hours and walk away. Now that's fun... 
+
+![531805611-ce0adc68-086a-4c64-ac17-94a5cb4e3489](https://github.com/user-attachments/assets/fc0ae1ea-c288-46b7-9e5f-0d236f8b729c)
+
+
+---------------------
+---------------------
+
 ![StreetComplete](.github/images/feature_graphic.png)
 
 StreetComplete is an easy to use editor of OpenStreetMap data available for Android. It can be used without any OpenStreetMap-specific knowledge. It asks simple questions, with answers directly used to edit and improve OpenStreetMap data. The app is aimed at users who do not know anything about OSM tagging schemes but still want to contribute to OpenStreetMap.
