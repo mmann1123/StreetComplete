@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1127806227.svg)](https://doi.org/10.5281/zenodo.18174201)
+
 This fork add OCR based store hours collection for StreetComplete. Snap a photo, select the hours and walk away. Now that's fun... 
 
 ![531805611-ce0adc68-086a-4c64-ac17-94a5cb4e3489](https://github.com/user-attachments/assets/fc0ae1ea-c288-46b7-9e5f-0d236f8b729c)
